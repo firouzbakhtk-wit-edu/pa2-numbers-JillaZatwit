@@ -13,7 +13,7 @@ import java.util.Scanner;
  */
 
 
-// TODO: document this class
+// TODO: document this class.
 public class PA2a {
 
 	// TODO: document this function
